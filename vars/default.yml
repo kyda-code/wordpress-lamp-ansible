@@ -1,0 +1,16 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL Settings
+mysql_root_password: "mysql123$"
+mysql_db: "wordpress"
+mysql_user: "turtle"
+mysql_password: "ninja_turtles"
+
+#HTTP Settings
+http_host: "localhost"
+http_conf: "localhost.conf"
+http_port: "80"
+
+root_pass_user: Oneres66
